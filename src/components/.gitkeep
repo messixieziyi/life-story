@@ -1,0 +1,6 @@
+# 组件目录
+# 后续可在此目录下创建以下组件：
+# - Timeline.jsx - 时间线组件
+# - AchievementModal.jsx - 成就添加/编辑模态框
+# - AiInsightPanel.jsx - AI 复盘面板
+# - StatsSummary.jsx - 统计摘要组件
